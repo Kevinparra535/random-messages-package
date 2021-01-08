@@ -1,13 +1,20 @@
-# mensajes aleatorios
-Cada vez que empiezo un nuevo proyecto, no sé qué escribir para la primera confirmación. Después de hacer un "git init" no hay técnicamente nada allí...
+# **random-messages**
 
-# Instalar
+Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+
+## **Install**
+
+```
 npm install -g random-msg
-Uso
-random-msg
 
-# Contribuyendo
-Si alguien quiere añadir o mejorar algo, te invito a colaborar directamente en este repositorio: random-msg
+```
 
-# Licencia
-random-msg se libera bajo la licencia MIT.
+# **Usage**
+
+`random-msg`
+
+# **Contributing**
+
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/platzi/npm-random-msg)
+
+# **License**
