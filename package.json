@@ -1,0 +1,23 @@
+{
+  "name": "kevin-random-messages",
+  "version": "1.0.0",
+  "description": "mensajes random",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "node",
+    "npm"
+  ],
+  "author": "Kevin Parra Lopez <kevinparra535@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bind/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
