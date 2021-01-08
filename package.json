@@ -14,10 +14,19 @@
   "author": "Kevin Parra Lopez <kevinparra535@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bind/global.js"
+    "random-msg": "bind/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
     "user": "0.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevinparra535/random-messages-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kevinparra535/random-messages-package/issues"
+  },
+  "homepage": "https://github.com/Kevinparra535/random-messages-package#readme"
 }
